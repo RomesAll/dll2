@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31613.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DllMarkirovka", "DllMarkirovka\DllMarkirovka.csproj", "{2F443B9A-615A-4C99-8424-9EAA5A1033F7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DllMarkirovkaTestMethod", "DllMarkirovkaTestMethod\DllMarkirovkaTestMethod.csproj", "{DEB77298-1A12-4884-8A37-1E5BF157FF07}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2F443B9A-615A-4C99-8424-9EAA5A1033F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F443B9A-615A-4C99-8424-9EAA5A1033F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F443B9A-615A-4C99-8424-9EAA5A1033F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F443B9A-615A-4C99-8424-9EAA5A1033F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DEB77298-1A12-4884-8A37-1E5BF157FF07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEB77298-1A12-4884-8A37-1E5BF157FF07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DEB77298-1A12-4884-8A37-1E5BF157FF07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DEB77298-1A12-4884-8A37-1E5BF157FF07}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5CBF2D9F-1682-4378-93BA-CF252F5C774D}
+	EndGlobalSection
+EndGlobal
